@@ -1,7 +1,13 @@
 <html>
-<head>
-</head>
-<body>
-<h1> test </h1>
-</body>
+    <head>
+        <style>
+            h1{
+                color: red;
+            }
+        </style>
+    </head>
+    <body>
+        <h1> test </h1>
+        <h2> testing the remote commint<h2>
+    </body>
 </html>
